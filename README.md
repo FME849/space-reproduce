@@ -8,6 +8,6 @@
 2. Switch to `SpaceReproduce` build profile
 3. Run Unity `Build And Run` 
 
-*Note:* 
-*1. This project's purpose is to reproduce the Identity problem which cannot retrieve user's Identity with token from Firebase*
-*2. The Firebase config can be found in WebGL Build/Assets/WebGLTemplates/SpaceReproduce/index.html*
+**Note:**
+1. This project's purpose is to reproduce the Identity problem which cannot retrieve user's Identity with token from Firebase
+2. The Firebase config can be found in WebGL Build/Assets/WebGLTemplates/SpaceReproduce/index.html
