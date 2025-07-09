@@ -4,9 +4,10 @@
 2. Generate client script: run `spacetime generate --lang csharp --out-dir './WebGL Build/Assets/Scripts/auto-gen' --project-path ./server-rust` at the root of project
 
 ## Build and Run
-1. Open `WebGL Build` Unity project
-2. Switch to `SpaceReproduce` build profile
-3. Run Unity `Build And Run` 
+1. Run `spacetime start`
+2. Open `WebGL Build` Unity project
+3. Switch to `SpaceReproduce` build profile
+4. Run Unity `Build And Run` 
 
 **Note:**
 1. This project's purpose is to reproduce the Identity problem which cannot retrieve user's Identity with token from Firebase
